@@ -1,0 +1,6 @@
+{
+  "name": "CalcRick",
+  "description": "Calculate. Convert. Understand. Master. Multi-domain calculation, conversion, verification, and mathematical learning platform by Rick Samanta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
